@@ -1,0 +1,12 @@
+[submodule "unimorph"]
+	path = unimorph
+	url = https://github.com/jonasknobloch/unimorph
+[submodule "morphy"]
+	path = morphy
+	url = https://github.com/jonasknobloch/morphy
+[submodule "csTenTen17-extract"]
+	path = csTenTen17-extract
+	url = https://github.com/jonasknobloch/csTenTen17-extract
+[submodule "czechGPT"]
+	path = czechGPT
+	url = https://github.com/jonasknobloch/czechGPT
